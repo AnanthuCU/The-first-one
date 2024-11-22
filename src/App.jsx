@@ -44,6 +44,7 @@ function App() {
       />
       <p>this is that change</p>
       <p>local development main flow</p>
+      <p>creation of a new local branch - 'feature-branch'</p>
     </div>
   );
 }
