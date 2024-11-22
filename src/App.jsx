@@ -42,6 +42,7 @@ function App() {
         type="text"
         placeholder="Click the button to focus me"
       />
+      <p>this is that change</p>
     </div>
   );
 }
